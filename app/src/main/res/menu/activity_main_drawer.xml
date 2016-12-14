@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Creatives">
+        <menu>
+            <item
+                android:id="@+id/nav_share2"
+                android:icon="@drawable/ic_work_black_24dp"
+                android:title="View Projects" />
+            <item
+                android:id="@+id/nav_send2"
+                android:icon="@drawable/ic_group_add_black_24dp"
+                android:title="View Peers" />
+        </menu>
+    </item>
+    <item android:title="Clients">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_supervisor_account_black_24dp"
+                android:title="View Profiles" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_publish_black_24dp"
+                android:title="Add Project" />
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Premium Listing" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="My Account" />
+    </group>
+
+</menu>
