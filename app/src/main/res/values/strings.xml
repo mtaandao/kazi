@@ -1,8 +1,27 @@
 <resources>
-    <string name="app_name">Pata Kazi</string>
+    <string name="app_name">Pot Kazi</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="events">Whats Happening Now</string>
+    <string name="innovations">Handy Innovations</string>
+    <string name="news">Swahilipot Updates</string>
+    <string name="security">Security Updates</string>
+    <string name="traffic">Traffic Updates</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="other_services">Other Services</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings related to login -->
 </resources>
+
+
+
+
